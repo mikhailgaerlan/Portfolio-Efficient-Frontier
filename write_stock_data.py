@@ -15,7 +15,7 @@ def get_etf(filename, ETF):
                     's=' + ETF + '&a=0&b=1&c=1990'
        #
        # Open the stream and munch the header
-   data_stream = urllib.urlopen(base_url)
+   data_stream = urllib.request.urlopen(base_url)
    data_stream.next()
        #
        # Parse the data
