@@ -6,7 +6,7 @@ A basic foundation of modern portfolio theory is the concept of the risk-return 
 
 The exact efficient frontier can be calculated under certain constraints. The efficient frontier of a two-stock can be shown here.
 
-![frontier.png](Frontier)
+![Frontier](frontier.png)
 
 ## Evolutionary Algorithms
 
@@ -14,10 +14,10 @@ Evolutionary algorithms could potentially solve the problem more generally with 
 
 The first plot shows the population in the decision space. Initially we start out with a uniform square and eventually converge to where the sum of the weights is equal to one.
 
-![evolution.gif](Decision Space)
+![Decision Space](evolution.fit)
 
 The second plot shows the population in the objective space. We eventually converge onto the efficient frontier with the constraint that the sum of the weights must equal one.
 
-![evolution_fit.gif](Objective Space)
+![Objective Space](evolution_fit.gif)
 
 
