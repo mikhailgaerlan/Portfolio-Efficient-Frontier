@@ -14,7 +14,7 @@ Evolutionary algorithms could potentially solve the problem more generally with 
 
 The first plot shows the population in the decision space. Initially we start out with a uniform square and eventually converge to where the sum of the weights is equal to one.
 
-![Decision Space](evolution.fit)
+![Decision Space](evolution.gif)
 
 The second plot shows the population in the objective space. We eventually converge onto the efficient frontier with the constraint that the sum of the weights must equal one.
 
